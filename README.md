@@ -49,10 +49,6 @@ INICIAR_JUEGO
 MOVER_DERECHA
 ```
 
-## Contribución
-
-Si deseas contribuir, por favor abre un issue o envía un pull request.
-
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
